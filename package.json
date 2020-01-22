@@ -1,0 +1,23 @@
+{
+  "name": "IMDblaster",
+  "version": "1.0.0",
+  "description": "All your data are belong to us",
+  "main": "omdb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstuteDesign/IMDblaster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AstuteDesign/IMDblaster/issues"
+  },
+  "homepage": "https://github.com/AstuteDesign/IMDblaster#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
